@@ -26,18 +26,10 @@
     <img src="https://imgur.com/KDjbR3n.png" alt="TypeScript" width="60" height="60"/>
 </p>
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://imgur.com/kKdEinh.png" alt="Node.js" width="60" height="60"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://imgur.com/dhkKNO4.png" alt="Figma" width="60" height="60"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://imgur.com/CHU0TDZ.png" alt="MongoDB" width="60" height="60"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://imgur.com/DkAmwpO.png" alt="Python" width="60" height="60"/>
-  </a>
 </p>
 
 <br>
