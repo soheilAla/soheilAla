@@ -17,27 +17,13 @@
 <br>
 <h3 align="center">The LANGUAGEs ​​I program with and the TOOls I use🛠️</h3>
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://imgur.com/u3z12nW.png" alt="HTML5" width="60" height="60"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://imgur.com/hssCKB5.png" alt="CSS3" width="60" height="60"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://imgur.com/s1DW4wk.png" alt="Tailwind CSS" width="60" height="60"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://imgur.com/giocUtB.png" alt="Git" width="60" height="60"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://imgur.com/SBWYKV0.png" alt="Vue.js" width="60" height="60"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://imgur.com/fu3P4TZ.png" alt="JavaScript" width="60" height="60"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://imgur.com/KDjbR3n.png" alt="TypeScript" width="60" height="60"/>
-  </a>
 </p>
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin: 10px;">
@@ -71,9 +57,7 @@
 <br>
 <h3 align="center">connect with me🔗</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/soheilala" target="_blank">LinkedIn</a> • 
-  <a href="https://twitter.com/soheilala" target="_blank">Twitter</a> • 
-  <a href="mailto:soheilala@example.com">Email</a>
+  <a href="mailto:apollon369@outlook.com.com">Email</a>
 </p>
 
 <h3 align="center">and check out my projects✨</h3>
