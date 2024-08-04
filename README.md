@@ -22,9 +22,7 @@
 <p align="center">
   <h3 align="center">My Trophies on GitHub Profile 🏆</h3>
   <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=soheilala&theme=tokyonight&no-bg=true&no-border=true&margin-w=10&margin-h=10&column=4&size=large" alt="Trophies" style="max-width: 100%; height: auto;"/>
-    </a>
+    <img src="https://github-profile-trophy.vercel.app/?username=soheilala&theme=tokyonight&no-bg=true&no-border=true&margin-w=10&margin-h=10&column=4&size=large" alt="Trophies" style="max-width: 100%; height: auto;"/>
   </div>
 </p>
 
