@@ -1,60 +1,54 @@
-<h1 align="center">Hey there, buddy👋🏻 I'm Soheil Alaei👦🏻</h1>
-<h2 align="center">A FULL-STACK WEB DEVELOPER and UI/UX DESIGNER from Persia🔆</h2>
-
+<h1 align="center">Greetings👋 Soheil Alaei here😉</h1>
+<h2 align="center">A Full-Stack Web Developer💻 and UX/UI Designer🎨 from the land of Persia</h2>
+<h3 align="center">The languages I specialize in and the tools I utilize for my work 💪</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soheilala&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" width="13%" height="13%"/>
+    <img src="https://imgur.com/u3z12nW.png" alt="HTML" title="HTML" width="60" height="60"/>
+    <img src="https://imgur.com/hssCKB5.png" alt="CSS" title="CSS" width="60" height="60"/>
+    <img src="https://imgur.com/s1DW4wk.png" alt="Tailwind CSS" title="Tailwind CSS" width="60" height="60"/>
+    <img src="https://imgur.com/fu3P4TZ.png" alt="JavaScript" title="JavaScript⚡" width="60" height="60"/>
+    <img src="https://imgur.com/KDjbR3n.png" alt="TypeScript" title="TypeScript" width="60" height="60"/>
+    <br><img src="https://imgur.com/kKdEinh.png" alt="Node.js" title="Node.js" width="60" height="60"/>
+    <img src="https://imgur.com/dhkKNO4.png" alt="Figma" title="Figma" width="60" height="60"/>
+    <img src="https://imgur.com/CHU0TDZ.png" alt="MongoDB" title="MongoDB" width="60" height="60"/>
 </p>
 
-<p align="center" style="background-color: #f9f9f9; border-radius: 10px; padding: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-  <h3 align="center" style="margin-bottom: 10px; font-size: 24px; color: #333;">My GitHub profile ACHIVEMENTs🏆</h3>
-  <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+<h3 align="center">The technologies I am currently expanding my expertise in 🌱</h3>
+<p align="center">
+    <img src="https://imgur.com/SBWYKV0.png" alt="Vue.js" title="Vue.js" width="60" height="60"/>
+    <img src="https://imgur.com/giocUtB.png" alt="Git" title="Git" width="60" height="60"/>
+    <br><img src="https://imgur.com/DkAmwpO.png" alt="Python" title="Python" width="60" height="60"/>
+</p>
+
+<br><p align="center">
+  <h3 align="center">My Trophies on GitHub Profile 🏆</h3>
+  <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=soheilala&theme=dracula&no-bg=true&no-border=true&margin-w=10&margin-h=10&column=4&size=large" alt="Trophies" style="max-width: 100%; height: auto;"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=soheilala&theme=tokyonight&no-bg=true&no-border=true&margin-w=10&margin-h=10&column=4&size=large" alt="Trophies" style="max-width: 100%; height: auto;"/>
     </a>
   </div>
 </p>
 
-<br>
-<h3 align="center">The LANGUAGEs ​​I program with and the TOOls I use🛠️</h3>
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://imgur.com/u3z12nW.png" alt="HTML5" width="60" height="60"/>
-    <img src="https://imgur.com/hssCKB5.png" alt="CSS3" width="60" height="60"/>
-    <img src="https://imgur.com/s1DW4wk.png" alt="Tailwind CSS" width="60" height="60"/>
-    <img src="https://imgur.com/giocUtB.png" alt="Git" width="60" height="60"/>
-    <img src="https://imgur.com/SBWYKV0.png" alt="Vue.js" width="60" height="60"/>
-    <img src="https://imgur.com/fu3P4TZ.png" alt="JavaScript" width="60" height="60"/>
-    <img src="https://imgur.com/KDjbR3n.png" alt="TypeScript" width="60" height="60"/>
-</p>
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://imgur.com/kKdEinh.png" alt="Node.js" width="60" height="60"/>
-    <img src="https://imgur.com/dhkKNO4.png" alt="Figma" width="60" height="60"/>
-    <img src="https://imgur.com/CHU0TDZ.png" alt="MongoDB" width="60" height="60"/>
-    <img src="https://imgur.com/DkAmwpO.png" alt="Python" width="60" height="60"/>
-</p>
-
-<br>
-<h3 align="center">My GitHub STATS📊</h3>
-<div align="center" style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
-  <div style="width: 100%; max-width: 500px; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soheilala&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
+<h3 align="center">Overview of My GitHub Statistics 📊</h3>
+<div align="center">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soheilala&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
   </div>
-  <div style="width: 100%; max-width: 500px; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=soheilala&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=soheilala&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
   </div>
-  <div style="width: 100%; max-width: 500px; margin-bottom: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=soheilala&theme=dracula" alt="Streak Stats" />
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=soheilala&theme=tokyonight" alt="Streak Stats" />
   </div>
 </div>
 
-<br>
-<h3 align="center">connect with me🔗</h3>
+<br><h3 align="center">You can find me here 🔗</h3>
 <p align="center">
-  <a href="mailto:apollon369@outlook.com.com">Email</a>
+  <a href="mailto:apollon369@outlook.com">Email</a>
 </p>
 
-<h3 align="center">and check out my projects✨</h3>
+<h3 align="center">and explore my projects ✨</h3>
 <p align="center">
   <a href="https://github.com/soheilala?tab=repositories" target="_blank">My Repositories</a>
 </p>
 <hr>
-<p align="center">Thank you for your time❤️</p>
+<p align="center">Thank you for your time 🩵</p>
