@@ -19,7 +19,7 @@
     <br><img src="https://imgur.com/DkAmwpO.png" alt="Python" title="Python" width="60" height="60"/>
 </p>
 
-<br><p align="center">
+<p align="center">
   <h3 align="center">My Trophies on GitHub Profile 🏆</h3>
   <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -41,7 +41,7 @@
   </div>
 </div>
 
-<br><h3 align="center">You can find me here 🔗</h3>
+<h3 align="center">You can find me here 🔗</h3>
 <p align="center">
   <a href="mailto:apollon369@outlook.com">Email</a>
 </p>
@@ -51,4 +51,4 @@
   <a href="https://github.com/soheilala?tab=repositories" target="_blank">My Repositories</a>
 </p>
 <hr>
-<p align="center">Thank you for your time 🩵</p>
+<p align="center">I appreciate your visit 🩵</p>
