@@ -1,5 +1,5 @@
 <h1 align="center">Greetings👋 Soheil Alaei here😉</h1>
-<h2 align="center">A Full-Stack Web Developer💻 and UI/UX Designer🎨 from the land of Persia</h2>
+<h2 align="center">A Full-Stack Web Developer💻 and UX/UI Designer🎨 from the land of Persia</h2>
 <h3 align="center">The languages I specialize in and the tools I utilize for my work 💪</h3>
 <p align="center">
     <img src="https://i.ibb.co/Y7htzcC/html.png" alt="HTML" title="HTML" width="60" height="60"/>
