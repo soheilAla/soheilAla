@@ -1,4 +1,3 @@
-![Header](./Header.png)
 <h1 align="center">Greetings👋 Soheil Alaei here😉</h1>
 <h2 align="center">A Full-Stack Web Developer💻 and UX/UI Designer🎨 from the land of Persia</h2>
 <h3 align="center">The languages I specialize in and the tools I utilize for my work 💪</h3>
