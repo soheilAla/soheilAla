@@ -7,7 +7,7 @@ I’m obsessed with understanding how technology works under the hood and love d
 When I’m not in the Terminal, you’ll find me discovering new video games or listening to musics. I also have a knack for **technical writing**, where I break down complex concepts and share knowledge in ways that are clear and easy to understand.
 
 ## My Tech Stacks 🛠️
-[![My Skills](https://skillicons.dev/icons?i=go,docker,kafka,nginx,git,javascript,nodejs,python,postgres,ubuntu,bash,vim,sqlite&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,docker,kafka,nginx,git,javascript,nodejs,python,postgres,ubuntu,bash,vim&theme=dark)](https://skillicons.dev)
 
 ![Contributions](https://github.com/<soheilAla>/<soheilAla>/blob/output/github-contribution-grid-snake2.svg)
 
