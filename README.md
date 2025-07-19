@@ -7,7 +7,7 @@ I’m obsessed with understanding how technology works under the hood and love d
 When I’m not in the Shell, you’ll find me reading books or listening to music. I also have a knack for **technical writing**, where I break down complex concepts and share knowledge in ways that are clear and easy to understand.
 
 ## My Tech Stacks 🛠️
-[![My Skills](https://skillicons.dev/icons?i=go,python,javascript,bash,docker,kubernetes,ubuntu,kafka,nginx,grafana,ansible&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,javascript,bash,docker,kubernetes,githubactions,ubuntu,kafka,nginx,grafana,ansible&theme=dark)](https://skillicons.dev)
 
 <br>
 
