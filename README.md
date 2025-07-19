@@ -2,7 +2,7 @@
 
 Hey there! I’m **Soheil**, a 17-year-old junior **backend** developer and **DevOps** engineer.
 
-I’m obsessed with understanding how technology works under the hood and love diving deep into new tools. Right now, I’m focusing on **DevSecOps**.
+I’m obsessed with understanding how technology works behind the scene and love diving deep into new tools. Right now, I’m focusing on **DevSecOps**.
 
 When I’m not in the Shell, you’ll find me reading books or listening to music. I also have a knack for **technical writing**, where I break down complex concepts and share knowledge in ways that are clear and easy to understand.
 
