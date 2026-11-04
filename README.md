@@ -1,5 +1,3 @@
-![Header](./header.png)
-
 # Hi, I'm Soheil
 
 I develop **reliable, maintainable software** with a strong focus on **clean architecture, secure API design, and understanding systems at a deeper level**.
