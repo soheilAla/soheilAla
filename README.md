@@ -4,4 +4,4 @@ I develop **reliable, maintainable software** with a strong focus on **clean arc
 
 My primary focus is **Python backend development** with FastAPI. I also develop **full-stack applications** with Vue when needed. I'm currently expanding toward **AI Engineering**, building on my backend and software engineering foundations.
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,postgresql,javascript,typescript,vue,tailwind,git,linux,docker,nginx,githubactions\&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,selenium,postgresql,git,linux,docker,nginx,githubactions,javascript,typescript,vue\&theme=dark)](https://skillicons.dev)
